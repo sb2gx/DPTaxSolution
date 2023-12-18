@@ -11,9 +11,6 @@ The Tax Calculator project is a .NET Core solution that provides a web-based tax
   - [Installation](#installation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -31,7 +28,7 @@ The tax calculator project is designed to perform basic CRUD operations on tax r
 
 Make sure you have the following installed:
 
-- [.NET SDK](https://dotnet.microsoft.com/download) (version used: 5.x)
+- [.NET CORE](https://dotnet.microsoft.com/download) (version used: 8.x)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) for data storage.
 
 ### Installation
