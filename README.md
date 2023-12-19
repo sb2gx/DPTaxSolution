@@ -43,11 +43,11 @@ Make sure you have the following installed:
 4. Go to the "CalculateTax" page and select postal code and enter amount submit for tax calculation
 
 ## Folder Structure
-TaxCalculator.Core: Contains core logic, entities, and interfaces.
-TaxCalculator.Data: Data access layer with Entity Framework migrations.
-TaxCalculator.Services: Implementations of tax calculation strategies.
-TaxCalculator.Web: MVC Razor web application.
-TaxCalculator.Api: API for tax calculations.
-TaxCalculator.Tests: Tests for tax calculations.
+- **TaxCalculator.Core:** Contains core logic, entities, and interfaces.
+- **TaxCalculator.Data:** Data access layer with Entity Framework migrations.
+- **TaxCalculator.Services:** Implementations of tax calculation strategies.
+- **TaxCalculator.Web:** MVC Razor web application.
+- **TaxCalculator.Api:** API for tax calculations.
+- **TaxCalculator.Tests:** Tests for tax calculations.
 
    
