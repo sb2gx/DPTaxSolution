@@ -39,6 +39,8 @@ Make sure you have the following installed:
    git clone https://github.com/sb2gx/DPTaxSolution.git
 
 2. Run and build using Visual Studio 2022
+3. Enter postal codes and corresponding tax calculation type on "PostalCodes" page
+4. Go to the "CalculateTax" page and select postal code and enter amount submit for tax calculation
 
 ## Folder Structure
 TaxCalculator.Core: Contains core logic, entities, and interfaces.
