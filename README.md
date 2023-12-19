@@ -30,6 +30,7 @@ Make sure you have the following installed:
 
 - [.NET CORE](https://dotnet.microsoft.com/download) (version used: 8.x)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) for data storage.
+- [Database Provider] EF Core In-Memory 
 
 ### Installation
 
